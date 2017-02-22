@@ -1,6 +1,6 @@
 package org.snorochevskiy.mapper.test;
 
-import org.snorochevskiy.IMapper;
+import org.snorochevskiy.dtomapper.IMapper;
 import org.snorochevskiy.dtos.HumanDto;
 import org.snorochevskiy.entities.HumanEntity;
 

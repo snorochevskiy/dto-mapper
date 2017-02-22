@@ -1,4 +1,4 @@
-package org.snorochevskiy;
+package org.snorochevskiy.dtomapper;
 
 
 import org.objectweb.asm.Type;

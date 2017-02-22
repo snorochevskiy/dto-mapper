@@ -2,6 +2,8 @@ package org.snorochevskiy;
 
 import org.junit.Assert;
 import org.junit.Test;
+import org.snorochevskiy.dtomapper.IMapper;
+import org.snorochevskiy.dtomapper.MapperGenerator;
 import org.snorochevskiy.dtos.HumanDto;
 import org.snorochevskiy.entities.HumanEntity;
 

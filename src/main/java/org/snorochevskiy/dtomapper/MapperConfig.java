@@ -1,4 +1,4 @@
-package org.snorochevskiy;
+package org.snorochevskiy.dtomapper;
 
 import org.objectweb.asm.Type;
 
@@ -17,7 +17,7 @@ public class MapperConfig {
         this.dst = dst;
     }
 
-    private List<MappedProperty> mappedProperties = new ArrayList<>();
+    private List<MappedProperty> mappedProperties = new ArrayList<MappedProperty>();
 
     public Class getSrc() {
         return src;

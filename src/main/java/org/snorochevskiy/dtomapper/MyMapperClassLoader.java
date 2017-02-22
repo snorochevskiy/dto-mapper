@@ -1,4 +1,4 @@
-package org.snorochevskiy;
+package org.snorochevskiy.dtomapper;
 
 public class MyMapperClassLoader extends ClassLoader {
 
